@@ -21,7 +21,7 @@ const inviteCache = new Map();
 
 const WELCOME_CHANNEL = "1511249061796380793";
 const RULES_CHANNEL = "1510886925278646403";
-const PRICE_CHANNEL = "151088801577225835";
+const PRICE_CHANNEL = "1510888015772258354";
 
 client.once("ready", async () => {
   console.log(`${client.user.tag} is online!`);
